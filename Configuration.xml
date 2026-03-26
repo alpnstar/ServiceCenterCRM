@@ -219,6 +219,7 @@
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Склады</Catalog>
 			<Catalog>СвойстваНоменклатуры</Catalog>
+			<Catalog>СерииНоменклатуры</Catalog>
 			<Document>ПоступлениеНоменклатуры</Document>
 			<Enum>ТипыНоменклатуры</Enum>
 			<InformationRegister>ЗначенияСвойствНоменклатуры</InformationRegister>
