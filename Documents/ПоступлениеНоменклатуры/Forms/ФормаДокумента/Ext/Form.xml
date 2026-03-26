@@ -4,6 +4,9 @@
 	<UsePostingMode>Auto</UsePostingMode>
 	<RepostOnWrite>true</RepostOnWrite>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="BeforeWrite">ПередЗаписью</Event>
+	</Events>
 	<ChildItems>
 		<InputField name="Номер" id="1">
 			<DataPath>Объект.Number</DataPath>
@@ -94,6 +97,12 @@
 					<EditMode>EnterOnInput</EditMode>
 					<ContextMenu name="ТоварыНоменклатураКонтекстноеМеню" id="39"/>
 					<ExtendedTooltip name="ТоварыНоменклатураРасширеннаяПодсказка" id="40"/>
+				</InputField>
+				<InputField name="ТоварыСерия" id="50">
+					<DataPath>Объект.Товары.Серия</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="ТоварыСерияКонтекстноеМеню" id="51"/>
+					<ExtendedTooltip name="ТоварыСерияРасширеннаяПодсказка" id="52"/>
 				</InputField>
 				<InputField name="ТоварыКоличество" id="41">
 					<DataPath>Объект.Товары.Количество</DataPath>

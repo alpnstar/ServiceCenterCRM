@@ -25,6 +25,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.СвойстваНоменклатуры</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">ChartOfCharacteristicTypes.ВидыСвойствНоменклатуры</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ЗначенияСвойствНоменклатуры</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.СерииНоменклатуры</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
