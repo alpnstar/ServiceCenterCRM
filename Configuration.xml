@@ -223,6 +223,7 @@
 			<Document>ПоступлениеНоменклатуры</Document>
 			<Enum>ТипыНоменклатуры</Enum>
 			<InformationRegister>ЗначенияСвойствНоменклатуры</InformationRegister>
+			<InformationRegister>ЦеныПоставщиков</InformationRegister>
 			<AccumulationRegister>ОстаткиНоменклатуры</AccumulationRegister>
 			<ChartOfCharacteristicTypes>ВидыСвойствНоменклатуры</ChartOfCharacteristicTypes>
 		</ChildObjects>
