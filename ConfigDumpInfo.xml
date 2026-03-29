@@ -38,7 +38,7 @@
 		<Metadata name="Catalog.Устройства" id="340a93a9-4133-426c-a6ac-76b570330999" configVersion="3187b8e8bf894642b01b20c4bb3434db00000000"/>
 		<Metadata name="ChartOfCharacteristicTypes.ВидыСвойствНоменклатуры" id="05971d43-458c-4977-915d-eb7425c9633a" configVersion="af0d406e8d60d3468691a93110e3258e00000000"/>
 		<Metadata name="Configuration.Конфигурация" id="51b05697-a0f6-4791-bada-2918ace0cd8a" configVersion="201523cffa29e34488f473826b5c602800000000"/>
-		<Metadata name="Document.ПоступлениеНоменклатуры" id="61dfbe3b-87a4-42bf-8f0f-0f04c75cfc2c" configVersion="e4bdb7c7051ec144bcd5fd5db9a5e77300000000">
+		<Metadata name="Document.ПоступлениеНоменклатуры" id="61dfbe3b-87a4-42bf-8f0f-0f04c75cfc2c" configVersion="fd40f08f60e1054584f2f340be0697d900000000">
 			<Metadata name="Document.ПоступлениеНоменклатуры.TabularSection.Товары.Attribute.Цена" id="37139456-5240-4121-8c21-08c4fef7ecd4"/>
 			<Metadata name="Document.ПоступлениеНоменклатуры.TabularSection.Товары.Attribute.Серия" id="388104ce-e584-45fa-b68f-49946df2dfb1"/>
 			<Metadata name="Document.ПоступлениеНоменклатуры.Attribute.Склад" id="5de221d6-4cc4-4a55-9ce5-7d4a3c676251"/>
@@ -51,8 +51,8 @@
 			<Metadata name="Document.ПоступлениеНоменклатуры.TabularSection.Товары" id="e8ae3270-376f-471d-b035-e36d15beea6d"/>
 			<Metadata name="Document.ПоступлениеНоменклатуры.Attribute.Поставщик" id="fecd0c70-e07a-4c68-95db-6bf66ccffd0f"/>
 		</Metadata>
-		<Metadata name="Document.ПоступлениеНоменклатуры.Form.ФормаДокумента" id="821275f2-69f3-4f68-a45e-ace3d1464a24" configVersion="4f74bf73f385a74c905c81df53ae319c00000000"/>
-		<Metadata name="Document.ПоступлениеНоменклатуры.Form.ФормаДокумента.Form" id="821275f2-69f3-4f68-a45e-ace3d1464a24.0" configVersion="8e151b90b69e6949967160d2c5ee7f6300000000"/>
+		<Metadata name="Document.ПоступлениеНоменклатуры.Form.ФормаДокумента" id="821275f2-69f3-4f68-a45e-ace3d1464a24" configVersion="552c1cfeb001254597820e5e8c2d628100000000"/>
+		<Metadata name="Document.ПоступлениеНоменклатуры.Form.ФормаДокумента.Form" id="821275f2-69f3-4f68-a45e-ace3d1464a24.0" configVersion="5657fdfad439624e8cf15b0994711fb500000000"/>
 		<Metadata name="Document.ПоступлениеНоменклатуры.Form.ФормаСписка" id="da5e1e6f-6def-49ad-a93e-f903ecf39e52" configVersion="07cd15d279039a47adbbbd514f0140b700000000"/>
 		<Metadata name="Document.ПоступлениеНоменклатуры.Form.ФормаСписка.Form" id="da5e1e6f-6def-49ad-a93e-f903ecf39e52.0" configVersion="2342f532c4c98c4885367d74088a1df700000000"/>
 		<Metadata name="Document.ПоступлениеНоменклатуры.ObjectModule" id="61dfbe3b-87a4-42bf-8f0f-0f04c75cfc2c.0" configVersion="c5a7dc66066bf443b7ebf22c3fed3e8200000000"/>
