@@ -1,38 +1,38 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
-	<Catalog uuid="340a93a9-4133-426c-a6ac-76b570330999">
+	<Catalog uuid="8df40d0c-e44d-49a3-ba83-7ba8e08d8bf0">
 		<InternalInfo>
-			<xr:GeneratedType name="CatalogObject.Устройства" category="Object">
-				<xr:TypeId>dc6696a9-275a-4be1-8bea-ff6d4c058efe</xr:TypeId>
-				<xr:ValueId>99d684de-0bfc-408d-83c7-ba0714a27c49</xr:ValueId>
+			<xr:GeneratedType name="CatalogObject.Должности" category="Object">
+				<xr:TypeId>4799baff-09f7-4c7e-a7da-1d61dde38c8b</xr:TypeId>
+				<xr:ValueId>b201fc46-faba-477e-9708-e0269c68c77d</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogRef.Устройства" category="Ref">
-				<xr:TypeId>e80ca495-d2a3-47bb-a0c4-3389fd86a8f1</xr:TypeId>
-				<xr:ValueId>7e289191-ddbf-4d6a-ae93-9e8ba4258d69</xr:ValueId>
+			<xr:GeneratedType name="CatalogRef.Должности" category="Ref">
+				<xr:TypeId>7641b88c-5dba-4a6e-852b-de46626a3a7b</xr:TypeId>
+				<xr:ValueId>6aedc3c7-3f8f-4465-8c14-480441eacac1</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogSelection.Устройства" category="Selection">
-				<xr:TypeId>11da1632-90bb-45a8-8195-c480f1f863fc</xr:TypeId>
-				<xr:ValueId>4eb36d36-ecc1-470d-a826-c88edfc6195c</xr:ValueId>
+			<xr:GeneratedType name="CatalogSelection.Должности" category="Selection">
+				<xr:TypeId>a320cdb5-bc7f-417a-bc98-7cb6f823c18b</xr:TypeId>
+				<xr:ValueId>8f3e0e76-b5e6-44fa-b59f-e957a0c19962</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogList.Устройства" category="List">
-				<xr:TypeId>3c34238b-7e03-4e5d-af03-2325f0fdaa2d</xr:TypeId>
-				<xr:ValueId>faca68ac-5b08-4ac6-929a-c72240fccf40</xr:ValueId>
+			<xr:GeneratedType name="CatalogList.Должности" category="List">
+				<xr:TypeId>889661c7-1bf9-40bb-9974-50ffe60f8b4a</xr:TypeId>
+				<xr:ValueId>9db30a11-3532-4fdf-91e6-b4fc8b8efb35</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogManager.Устройства" category="Manager">
-				<xr:TypeId>4e815b2e-844e-47fd-8aa8-62ee5671c635</xr:TypeId>
-				<xr:ValueId>9330a00a-314b-4962-8e5f-3c22767a778e</xr:ValueId>
+			<xr:GeneratedType name="CatalogManager.Должности" category="Manager">
+				<xr:TypeId>809ad032-269e-4402-8d12-d02f442f679d</xr:TypeId>
+				<xr:ValueId>cb7d96ea-9a2d-4d48-ae1a-907c5e51e1cb</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>Устройства</Name>
+			<Name>Должности</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Устройства</v8:content>
+					<v8:content>Должности</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
-			<Hierarchical>true</Hierarchical>
+			<Hierarchical>false</Hierarchical>
 			<HierarchyType>HierarchyFoldersAndItems</HierarchyType>
 			<LimitLevelCount>false</LimitLevelCount>
 			<LevelCount>2</LevelCount>
@@ -41,7 +41,7 @@
 			<Owners/>
 			<SubordinationUse>ToItems</SubordinationUse>
 			<CodeLength>9</CodeLength>
-			<DescriptionLength>100</DescriptionLength>
+			<DescriptionLength>50</DescriptionLength>
 			<CodeType>String</CodeType>
 			<CodeAllowedLength>Variable</CodeAllowedLength>
 			<CodeSeries>WholeCatalog</CodeSeries>
@@ -252,7 +252,7 @@
 					<xr:Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Название устройства</v8:content>
+							<v8:content>Название  должности</v8:content>
 						</v8:item>
 					</xr:Synonym>
 					<xr:Comment/>
@@ -295,8 +295,8 @@
 			<QuickChoice>false</QuickChoice>
 			<ChoiceMode>BothWays</ChoiceMode>
 			<InputByString>
-				<xr:Field>Catalog.Устройства.StandardAttribute.Description</xr:Field>
-				<xr:Field>Catalog.Устройства.StandardAttribute.Code</xr:Field>
+				<xr:Field>Catalog.Должности.StandardAttribute.Description</xr:Field>
+				<xr:Field>Catalog.Должности.StandardAttribute.Code</xr:Field>
 			</InputByString>
 			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>

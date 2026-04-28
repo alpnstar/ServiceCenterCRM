@@ -206,11 +206,12 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>РаботаСКлиентами</Subsystem>
-			<Subsystem>Склад</Subsystem>
+			<Subsystem>Ремонты</Subsystem>
+			<Subsystem>СкладИЗакупки</Subsystem>
+			<Subsystem>Финансы</Subsystem>
 			<Subsystem>Аналитика</Subsystem>
 			<Subsystem>Администрирование</Subsystem>
-			<Subsystem>Прочее</Subsystem>
-			<Subsystem>Персонал</Subsystem>
+			<Subsystem>КадрыИЗарплата</Subsystem>
 			<FilterCriterion>КритерийОтбора1</FilterCriterion>
 			<Catalog>Устройства</Catalog>
 			<Catalog>Номенклатура</Catalog>
@@ -220,11 +221,17 @@
 			<Catalog>Склады</Catalog>
 			<Catalog>СвойстваНоменклатуры</Catalog>
 			<Catalog>СерииНоменклатуры</Catalog>
-			<Document>ПоступлениеНоменклатуры</Document>
+			<Catalog>Должности</Catalog>
+			<Document>ПоступлениеТоваров</Document>
+			<Document>СписаниеТоваров</Document>
+			<Document>УстановкаЦенНоменклатуры</Document>
 			<Enum>ТипыНоменклатуры</Enum>
+			<Enum>ПричиныСписания</Enum>
 			<InformationRegister>ЗначенияСвойствНоменклатуры</InformationRegister>
 			<InformationRegister>ЦеныПоставщиков</InformationRegister>
-			<AccumulationRegister>ОстаткиНоменклатуры</AccumulationRegister>
+			<InformationRegister>ЦеныПродажи</InformationRegister>
+			<InformationRegister>МатрицаНаценок</InformationRegister>
+			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 			<ChartOfCharacteristicTypes>ВидыСвойствНоменклатуры</ChartOfCharacteristicTypes>
 		</ChildObjects>
 	</Configuration>

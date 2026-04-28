@@ -2,33 +2,33 @@
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
 	<Document uuid="61dfbe3b-87a4-42bf-8f0f-0f04c75cfc2c">
 		<InternalInfo>
-			<xr:GeneratedType name="DocumentObject.ПоступлениеНоменклатуры" category="Object">
+			<xr:GeneratedType name="DocumentObject.ПоступлениеТоваров" category="Object">
 				<xr:TypeId>d994c0bd-1c70-451e-9578-690a64bdf60e</xr:TypeId>
 				<xr:ValueId>538dad86-1dfc-4648-9c88-0aa731149ac9</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentRef.ПоступлениеНоменклатуры" category="Ref">
+			<xr:GeneratedType name="DocumentRef.ПоступлениеТоваров" category="Ref">
 				<xr:TypeId>9fc7daa8-7817-4992-bffa-453e4509e7a5</xr:TypeId>
 				<xr:ValueId>bcfb4454-1552-4b6a-80ec-7ef8e5e0ee17</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentSelection.ПоступлениеНоменклатуры" category="Selection">
+			<xr:GeneratedType name="DocumentSelection.ПоступлениеТоваров" category="Selection">
 				<xr:TypeId>00ad9719-5c59-44c9-b3e9-4e495406e7b3</xr:TypeId>
 				<xr:ValueId>b0ceb778-f8c2-4893-9a31-6e05b30ea2f1</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentList.ПоступлениеНоменклатуры" category="List">
+			<xr:GeneratedType name="DocumentList.ПоступлениеТоваров" category="List">
 				<xr:TypeId>a0d5d433-a872-4621-aa43-b981190a3589</xr:TypeId>
 				<xr:ValueId>9cf8e25b-fc4e-4ab9-9914-cc4cfbd859f6</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentManager.ПоступлениеНоменклатуры" category="Manager">
+			<xr:GeneratedType name="DocumentManager.ПоступлениеТоваров" category="Manager">
 				<xr:TypeId>09c93ced-2bb5-4551-b877-f0f3e0f152c6</xr:TypeId>
 				<xr:ValueId>c24a6341-634f-4861-a31f-dcfdb8bc13c2</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ПоступлениеНоменклатуры</Name>
+			<Name>ПоступлениеТоваров</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Поступление номенклатуры</v8:content>
+					<v8:content>Поступление товаров</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -43,14 +43,14 @@
 			<Characteristics/>
 			<BasedOn/>
 			<InputByString>
-				<xr:Field>Document.ПоступлениеНоменклатуры.StandardAttribute.Number</xr:Field>
+				<xr:Field>Document.ПоступлениеТоваров.StandardAttribute.Number</xr:Field>
 			</InputByString>
 			<CreateOnInput>Use</CreateOnInput>
 			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
 			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
-			<DefaultObjectForm>Document.ПоступлениеНоменклатуры.Form.ФормаДокумента</DefaultObjectForm>
-			<DefaultListForm>Document.ПоступлениеНоменклатуры.Form.ФормаСписка</DefaultListForm>
+			<DefaultObjectForm>Document.ПоступлениеТоваров.Form.ФормаДокумента</DefaultObjectForm>
+			<DefaultListForm>Document.ПоступлениеТоваров.Form.ФормаСписка</DefaultListForm>
 			<DefaultChoiceForm/>
 			<AuxiliaryObjectForm/>
 			<AuxiliaryListForm/>
@@ -62,7 +62,7 @@
 			<SequenceFilling>AutoFill</SequenceFilling>
 			<RegisterRecords>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ЦеныПоставщиков</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ОстаткиНоменклатуры</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ОстаткиТоваров</xr:Item>
 			</RegisterRecords>
 			<PostInPrivilegedMode>true</PostInPrivilegedMode>
 			<UnpostInPrivilegedMode>true</UnpostInPrivilegedMode>
@@ -150,7 +150,7 @@
 					<ChoiceParameterLinks>
 						<xr:Link>
 							<xr:Name>Отбор.Владелец</xr:Name>
-							<xr:DataPath xsi:type="xs:string">Document.ПоступлениеНоменклатуры.Attribute.Поставщик</xr:DataPath>
+							<xr:DataPath xsi:type="xs:string">Document.ПоступлениеТоваров.Attribute.Поставщик</xr:DataPath>
 							<xr:ValueChange>Clear</xr:ValueChange>
 						</xr:Link>
 					</ChoiceParameterLinks>
@@ -291,11 +291,11 @@
 			<Form>ФормаСписка</Form>
 			<TabularSection uuid="e8ae3270-376f-471d-b035-e36d15beea6d">
 				<InternalInfo>
-					<xr:GeneratedType name="DocumentTabularSection.ПоступлениеНоменклатуры.Товары" category="TabularSection">
+					<xr:GeneratedType name="DocumentTabularSection.ПоступлениеТоваров.Товары" category="TabularSection">
 						<xr:TypeId>6b76a60e-4d42-4366-9217-e7cc5c4ba93e</xr:TypeId>
 						<xr:ValueId>b6219a47-7e08-47a7-bc0d-849429e1fdc4</xr:ValueId>
 					</xr:GeneratedType>
-					<xr:GeneratedType name="DocumentTabularSectionRow.ПоступлениеНоменклатуры.Товары" category="TabularSectionRow">
+					<xr:GeneratedType name="DocumentTabularSectionRow.ПоступлениеТоваров.Товары" category="TabularSectionRow">
 						<xr:TypeId>3e5bdea5-3eff-41f9-b5b6-42591cb1ce85</xr:TypeId>
 						<xr:ValueId>e1933975-5416-4396-85b1-82f24c3add4a</xr:ValueId>
 					</xr:GeneratedType>
