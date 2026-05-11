@@ -28,6 +28,11 @@
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ЦеныПродажи</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.УстановкаЦенНоменклатуры</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.МатрицаНаценок</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ВзаиморасчетыСПоставщиками</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.КонтактныеЛица</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Enum.ТипыНоменклатуры</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">ChartOfCharacteristicTypes.ВидыСвойствНоменклатуры</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ВозвратТоваровПоставщику</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

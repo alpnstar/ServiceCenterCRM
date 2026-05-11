@@ -205,8 +205,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<Subsystem>РаботаСКлиентами</Subsystem>
-			<Subsystem>Ремонты</Subsystem>
+			<Subsystem>КлиентыИРемонты</Subsystem>
 			<Subsystem>СкладИЗакупки</Subsystem>
 			<Subsystem>Финансы</Subsystem>
 			<Subsystem>Аналитика</Subsystem>
@@ -222,16 +221,29 @@
 			<Catalog>СвойстваНоменклатуры</Catalog>
 			<Catalog>СерииНоменклатуры</Catalog>
 			<Catalog>Должности</Catalog>
+			<Catalog>Кассы</Catalog>
+			<Catalog>Клиенты</Catalog>
+			<Catalog>Пользователи</Catalog>
 			<Document>ПоступлениеТоваров</Document>
 			<Document>СписаниеТоваров</Document>
 			<Document>УстановкаЦенНоменклатуры</Document>
+			<Document>ВозвратТоваровПоставщику</Document>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПричиныСписания</Enum>
+			<Enum>СтатусыЗаказНаряда</Enum>
+			<Enum>ВидыДвиженийДенежныхСредств</Enum>
 			<InformationRegister>ЗначенияСвойствНоменклатуры</InformationRegister>
 			<InformationRegister>ЦеныПоставщиков</InformationRegister>
 			<InformationRegister>ЦеныПродажи</InformationRegister>
 			<InformationRegister>МатрицаНаценок</InformationRegister>
+			<InformationRegister>КадроваяИстория</InformationRegister>
+			<InformationRegister>ИсторияСтатусовРемонтов</InformationRegister>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
+			<AccumulationRegister>ВзаиморасчетыСПоставщиками</AccumulationRegister>
+			<AccumulationRegister>ВзаиморасчетыСКлиентами</AccumulationRegister>
+			<AccumulationRegister>ВзаиморасчетыССотрудниками</AccumulationRegister>
+			<AccumulationRegister>Продажи</AccumulationRegister>
+			<AccumulationRegister>ВыработкаСотрудников</AccumulationRegister>
 			<ChartOfCharacteristicTypes>ВидыСвойствНоменклатуры</ChartOfCharacteristicTypes>
 		</ChildObjects>
 	</Configuration>

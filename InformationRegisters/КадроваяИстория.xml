@@ -1,71 +1,81 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
-	<AccumulationRegister uuid="e1bf39c6-8b58-4dd4-9c38-7411fd91d5e0">
+	<InformationRegister uuid="3ac62fd2-6dce-4c86-ab8c-6954f5fe597a">
 		<InternalInfo>
-			<xr:GeneratedType name="AccumulationRegisterRecord.ОстаткиТоваров" category="Record">
-				<xr:TypeId>9be5e9b9-9f47-4ab7-a23e-8c0d0fea1d79</xr:TypeId>
-				<xr:ValueId>730aea95-a3d0-48da-a9ea-ea3e8854a40c</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecord.КадроваяИстория" category="Record">
+				<xr:TypeId>42de5965-6c35-4c97-840a-95bfb333b58b</xr:TypeId>
+				<xr:ValueId>59db4049-9bc4-4d24-a4ea-94019e39a995</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="AccumulationRegisterManager.ОстаткиТоваров" category="Manager">
-				<xr:TypeId>db023528-8519-4983-9c0b-d205d8fd5ba0</xr:TypeId>
-				<xr:ValueId>97621a0b-f8ea-4359-a926-a1ad6f1017e1</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterManager.КадроваяИстория" category="Manager">
+				<xr:TypeId>df3612b1-529c-4774-b56f-13887be1c6d9</xr:TypeId>
+				<xr:ValueId>d15e00de-b702-45cf-9baa-944ad9dc0806</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="AccumulationRegisterSelection.ОстаткиТоваров" category="Selection">
-				<xr:TypeId>7f6a9bb6-58a3-4cde-b437-ccfbefe3500f</xr:TypeId>
-				<xr:ValueId>2246222e-d66a-49f9-97b7-2844a31fa799</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterSelection.КадроваяИстория" category="Selection">
+				<xr:TypeId>37acbe67-e892-4f65-8b39-eb93aa6d477f</xr:TypeId>
+				<xr:ValueId>d16d4bc2-b013-43c9-b8a9-27e848df4799</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="AccumulationRegisterList.ОстаткиТоваров" category="List">
-				<xr:TypeId>8758c883-1b9e-427e-8d79-348ddd60fbf9</xr:TypeId>
-				<xr:ValueId>085485a5-a576-4415-9102-c1e115b35f59</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterList.КадроваяИстория" category="List">
+				<xr:TypeId>760c1dc3-875e-4175-a1d1-06f2161e1cb2</xr:TypeId>
+				<xr:ValueId>70a62311-9405-46b7-9778-3acbedd8d5db</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="AccumulationRegisterRecordSet.ОстаткиТоваров" category="RecordSet">
-				<xr:TypeId>e7d691f8-00be-4542-9a84-cae3fccdc22b</xr:TypeId>
-				<xr:ValueId>62b0ffcb-e6ea-4216-8bc3-475e731d53ae</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordSet.КадроваяИстория" category="RecordSet">
+				<xr:TypeId>ce585a0a-4e04-4cc4-8d96-83e66fad9df2</xr:TypeId>
+				<xr:ValueId>a01db16f-74d3-43fe-9d24-5ced0aa40959</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="AccumulationRegisterRecordKey.ОстаткиТоваров" category="RecordKey">
-				<xr:TypeId>a97dbd37-4ad2-4a6d-8a24-7ca214b8a928</xr:TypeId>
-				<xr:ValueId>cc9f7c45-a47e-4571-9e49-fab15d261b38</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordKey.КадроваяИстория" category="RecordKey">
+				<xr:TypeId>ae9247d8-8beb-498e-ae14-26037d274c1e</xr:TypeId>
+				<xr:ValueId>cd3b3eda-cc84-42b7-924e-6df3e681a56c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordManager.КадроваяИстория" category="RecordManager">
+				<xr:TypeId>af0e39ad-90ed-4f4b-8b0d-4e19d41660f0</xr:TypeId>
+				<xr:ValueId>8381ce55-3f59-4a5c-b780-648237afc2c8</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ОстаткиТоваров</Name>
+			<Name>КадроваяИстория</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Остатки товаров</v8:content>
+					<v8:content>Кадровая история</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
 			<UseStandardCommands>true</UseStandardCommands>
+			<EditType>InDialog</EditType>
+			<DefaultRecordForm/>
 			<DefaultListForm/>
+			<AuxiliaryRecordForm/>
 			<AuxiliaryListForm/>
-			<RegisterType>Balance</RegisterType>
+			<InformationRegisterPeriodicity>Day</InformationRegisterPeriodicity>
+			<WriteMode>Independent</WriteMode>
+			<MainFilterOnPeriod>true</MainFilterOnPeriod>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<DataLockControlMode>Managed</DataLockControlMode>
 			<FullTextSearch>DontUse</FullTextSearch>
-			<EnableTotalsSplitting>true</EnableTotalsSplitting>
+			<EnableTotalsSliceFirst>false</EnableTotalsSliceFirst>
+			<EnableTotalsSliceLast>false</EnableTotalsSliceLast>
+			<RecordPresentation/>
+			<ExtendedRecordPresentation/>
 			<ListPresentation/>
 			<ExtendedListPresentation/>
 			<Explanation/>
+			<DataHistory>DontUse</DataHistory>
+			<UpdateDataHistoryImmediatelyAfterWrite>false</UpdateDataHistoryImmediatelyAfterWrite>
+			<ExecuteAfterWriteDataHistoryVersionProcessing>false</ExecuteAfterWriteDataHistoryVersionProcessing>
 		</Properties>
 		<ChildObjects>
-			<Resource uuid="a4740341-c05e-4d68-8c28-ee5c04b08bc9">
+			<Resource uuid="beedf400-85ca-4f81-881c-5be2ca47b335">
 				<Properties>
-					<Name>Количество</Name>
+					<Name>Должность</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Количество</v8:content>
+							<v8:content>Должность</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>xs:decimal</v8:Type>
-						<v8:NumberQualifiers>
-							<v8:Digits>15</v8:Digits>
-							<v8:FractionDigits>0</v8:FractionDigits>
-							<v8:AllowedSign>Nonnegative</v8:AllowedSign>
-						</v8:NumberQualifiers>
+						<v8:Type>cfg:CatalogRef.Должности</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
@@ -77,6 +87,8 @@
 					<ExtendedEdit>false</ExtendedEdit>
 					<MinValue xsi:nil="true"/>
 					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:nil="true"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 					<ChoiceParameterLinks/>
@@ -86,16 +98,18 @@
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Indexing>DontIndex</Indexing>
 					<FullTextSearch>Use</FullTextSearch>
+					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Resource>
-			<Resource uuid="82bd544f-a4b9-4bd4-8bee-9ccf8bcc3ca6">
+			<Resource uuid="ecaa48f6-2c4a-4adf-b9a3-223f777a721f">
 				<Properties>
-					<Name>Сумма</Name>
+					<Name>Оклад</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Сумма</v8:content>
+							<v8:content>Оклад</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -117,6 +131,8 @@
 					<ExtendedEdit>false</ExtendedEdit>
 					<MinValue xsi:nil="true"/>
 					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:nil="true"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 					<ChoiceParameterLinks/>
@@ -126,21 +142,28 @@
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Indexing>DontIndex</Indexing>
 					<FullTextSearch>Use</FullTextSearch>
+					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Resource>
-			<Dimension uuid="f91874e8-b069-4a4c-b4c9-04eef7ba7dbe">
+			<Resource uuid="245c1e3a-62fd-404c-a1e4-81744be06c84">
 				<Properties>
-					<Name>Номенклатура</Name>
+					<Name>Процент</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Номенклатура</v8:content>
+							<v8:content>Процент</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:CatalogRef.Номенклатура</v8:Type>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>5</v8:Digits>
+							<v8:FractionDigits>2</v8:FractionDigits>
+							<v8:AllowedSign>Nonnegative</v8:AllowedSign>
+						</v8:NumberQualifiers>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
@@ -152,6 +175,8 @@
 					<ExtendedEdit>false</ExtendedEdit>
 					<MinValue xsi:nil="true"/>
 					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:nil="true"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 					<ChoiceParameterLinks/>
@@ -161,24 +186,23 @@
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-					<DenyIncompleteValues>true</DenyIncompleteValues>
 					<Indexing>DontIndex</Indexing>
 					<FullTextSearch>Use</FullTextSearch>
-					<UseInTotals>true</UseInTotals>
+					<DataHistory>Use</DataHistory>
 				</Properties>
-			</Dimension>
-			<Dimension uuid="55b971d1-2eaa-44a7-8f99-d75f7fecb253">
+			</Resource>
+			<Dimension uuid="6c12a35e-fc8e-471f-a993-60e2f7cce8f3">
 				<Properties>
-					<Name>Склад</Name>
+					<Name>Сотрудник</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Склад</v8:content>
+							<v8:content>Сотрудник</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:CatalogRef.Склады</v8:Type>
+						<v8:Type>cfg:CatalogRef.Сотрудники</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
@@ -190,6 +214,8 @@
 					<ExtendedEdit>false</ExtendedEdit>
 					<MinValue xsi:nil="true"/>
 					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:nil="true"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 					<ChoiceParameterLinks/>
@@ -199,50 +225,14 @@
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-					<DenyIncompleteValues>true</DenyIncompleteValues>
-					<Indexing>DontIndex</Indexing>
-					<FullTextSearch>Use</FullTextSearch>
-					<UseInTotals>true</UseInTotals>
-				</Properties>
-			</Dimension>
-			<Dimension uuid="c39420a5-1e35-4f59-85c6-25063ab446dd">
-				<Properties>
-					<Name>Серия</Name>
-					<Synonym>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Серия</v8:content>
-						</v8:item>
-					</Synonym>
-					<Comment/>
-					<Type>
-						<v8:Type>cfg:CatalogRef.СерииНоменклатуры</v8:Type>
-					</Type>
-					<PasswordMode>false</PasswordMode>
-					<Format/>
-					<EditFormat/>
-					<ToolTip/>
-					<MarkNegatives>false</MarkNegatives>
-					<Mask/>
-					<MultiLine>false</MultiLine>
-					<ExtendedEdit>false</ExtendedEdit>
-					<MinValue xsi:nil="true"/>
-					<MaxValue xsi:nil="true"/>
-					<FillChecking>DontCheck</FillChecking>
-					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks/>
-					<ChoiceParameters/>
-					<QuickChoice>Auto</QuickChoice>
-					<CreateOnInput>Auto</CreateOnInput>
-					<ChoiceForm/>
-					<LinkByType/>
-					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Master>false</Master>
+					<MainFilter>true</MainFilter>
 					<DenyIncompleteValues>false</DenyIncompleteValues>
 					<Indexing>DontIndex</Indexing>
 					<FullTextSearch>Use</FullTextSearch>
-					<UseInTotals>true</UseInTotals>
+					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Dimension>
 		</ChildObjects>
-	</AccumulationRegister>
+	</InformationRegister>
 </MetaDataObject>
