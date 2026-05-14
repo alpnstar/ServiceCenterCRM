@@ -228,6 +228,8 @@
 			<Document>СписаниеТоваров</Document>
 			<Document>УстановкаЦенНоменклатуры</Document>
 			<Document>ВозвратТоваровПоставщику</Document>
+			<Document>ПриемВРемонт</Document>
+			<Document>ЗаказНаряд</Document>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПричиныСписания</Enum>
 			<Enum>СтатусыЗаказНаряда</Enum>
