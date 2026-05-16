@@ -230,6 +230,8 @@
 			<Document>ВозвратТоваровПоставщику</Document>
 			<Document>ПриемВРемонт</Document>
 			<Document>ЗаказНаряд</Document>
+			<Document>ПриходныйКассовыйОрдер</Document>
+			<Document>РасходныйКассовыйОрдер</Document>
 			<Enum>ТипыНоменклатуры</Enum>
 			<Enum>ПричиныСписания</Enum>
 			<Enum>СтатусыЗаказНаряда</Enum>
