@@ -81,7 +81,7 @@
 		<Metadata name="Catalog.Устройства" id="340a93a9-4133-426c-a6ac-76b570330999" configVersion="f5e1bc72a4626b45881eecf73d0f934600000000"/>
 		<Metadata name="ChartOfCharacteristicTypes.ВидыСвойствНоменклатуры" id="05971d43-458c-4977-915d-eb7425c9633a" configVersion="af0d406e8d60d3468691a93110e3258e00000000"/>
 		<Metadata name="Configuration.Конфигурация" id="51b05697-a0f6-4791-bada-2918ace0cd8a" configVersion="ea2ba451b9ce4d44af80ad0897ad8b8200000000"/>
-		<Metadata name="Document.ВозвратТоваровПоставщику" id="3b7c96b9-88c8-4646-80d2-4f263b006f9b" configVersion="6dec360ccad1b44fb0988fef848ac08500000000">
+		<Metadata name="Document.ВозвратТоваровПоставщику" id="3b7c96b9-88c8-4646-80d2-4f263b006f9b" configVersion="43d7e479dafe9a44873ce70f9c9f197000000000">
 			<Metadata name="Document.ВозвратТоваровПоставщику.Attribute.Комментарий" id="1ce5daf2-38d2-4df8-ae7b-57c4ac9e0232"/>
 			<Metadata name="Document.ВозвратТоваровПоставщику.TabularSection.Товары.Attribute.Серия" id="699c3bc0-d478-4163-b064-2caf98caaa9f"/>
 			<Metadata name="Document.ВозвратТоваровПоставщику.Attribute.Поставщик" id="6aff433d-a762-4bad-89ae-45e56fb431e7"/>
@@ -96,7 +96,7 @@
 		<Metadata name="Document.ВозвратТоваровПоставщику.Form.ФормаДокумента.Form" id="ec975a56-0211-4ed8-8116-c83675027eb5.0" configVersion="ac2e88f0fa852548ab8d4929c0ba237a00000000"/>
 		<Metadata name="Document.ВозвратТоваровПоставщику.Help" id="3b7c96b9-88c8-4646-80d2-4f263b006f9b.1" configVersion="1ced9f1268383f44b22853957849257c00000000"/>
 		<Metadata name="Document.ВозвратТоваровПоставщику.ManagerModule" id="3b7c96b9-88c8-4646-80d2-4f263b006f9b.2" configVersion="efb580f09648fd43a544170da3aa1ce900000000"/>
-		<Metadata name="Document.ВозвратТоваровПоставщику.ObjectModule" id="3b7c96b9-88c8-4646-80d2-4f263b006f9b.0" configVersion="bad4ff558a633f4391d6dd62c00a066100000000"/>
+		<Metadata name="Document.ВозвратТоваровПоставщику.ObjectModule" id="3b7c96b9-88c8-4646-80d2-4f263b006f9b.0" configVersion="e92604f9db354c4b91b7eb43eb35cd0d00000000"/>
 		<Metadata name="Document.ЗаказНаряд" id="25a6d476-b69b-4c12-b1f9-cf04077e71c0" configVersion="6f544992c2498e48a3b805e1e3b1db9e00000000">
 			<Metadata name="Document.ЗаказНаряд.TabularSection.Запчасти" id="1fa741fd-c367-4749-ad05-84fe56522a3c"/>
 			<Metadata name="Document.ЗаказНаряд.Attribute.СуммаДокумента" id="20af74b6-4631-4c63-b2b7-f76ef5869c33"/>
